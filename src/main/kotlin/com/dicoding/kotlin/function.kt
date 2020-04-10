@@ -3,7 +3,7 @@ package com.dicoding.kotlin
 fun main () {
     println("halo ini adalah program awal saya membuat fungsi")
     val nilai_total = sum(3,4)
-    println("maka nilai totalnya adalah $nilai_total")
+    println("maka nilai    totalnya adalah $nilai_total")
 }
 
 
